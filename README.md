@@ -9,15 +9,15 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Bruno da Cruz
+- Matricula: 897952
+- Proposta de projeto escolhida: Sitede apresentacao de pontos turisticos
+- Breve descrição sobre seu projeto: Meu projeto foi feito para apresentar os principais pontos turisticos da cidade de Brumadinho-MG. Visando chamar a atencao dos usuarios para o turismo local.
 
 **Print da tela com a implementação**
 
 << Adicinonei um mapa utilizando o mapbox que mostra a localizacao dos pontos turisticos que estao cadastrados no site>>
 
-![teste metodo get Thunder Client](/public/assets/img/printmapbox.png)
+![print da funcao implementada: MAPBOX](/public/assets/img/printmapbox.png)
 
-![teste metodo get Thunder Client](/public/assets/img/printmapbox2.png)
+![print da funcao implementada: MAPBOX](/public/assets/img/printmapbox2.png)
