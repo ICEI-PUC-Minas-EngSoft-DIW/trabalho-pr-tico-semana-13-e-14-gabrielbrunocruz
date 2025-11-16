@@ -16,8 +16,8 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 **Print da tela com a implementação**
 
-<< Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+<< Adicinonei um mapa utilizando o mapbox que mostra a localizacao dos pontos turisticos que estao cadastrados no site>>
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+![teste metodo get Thunder Client](/public/assets/img/printmapbox.png)
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+![teste metodo get Thunder Client](/public/assets/img/printmapbox2.png)

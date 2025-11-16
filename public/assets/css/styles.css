@@ -52,3 +52,18 @@
     border-radius: 10px;
     margin: 20px 0;
 }   
+#map {
+    width: 100%;
+    height: 300px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.marker-destaque {
+  width: 40px;
+  height: 40px;
+  background-color: #e30808;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  box-shadow: 0 0 8px rgba(0,0,0,0.5);
+  cursor: pointer;
+}
